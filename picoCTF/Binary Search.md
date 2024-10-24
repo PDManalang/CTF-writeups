@@ -17,5 +17,16 @@ this already gave us an idea if we should guess or number in a lower or higher r
 
 ![image](https://github.com/user-attachments/assets/ce82b5a4-5d61-46e7-9bb7-8a21e2dab542)
 
+to clarify, the *low* and *high* number we will use will depend on the outcome of our recent guess.
 
+our first guess was `500` right? It says that it's lower than that. In our next computation we will using `500` as our *high* number and `1` as our *low* number.
+
+`(1 + 500) / 2 = 250` -> we got another prompt that the correct number is now higher than this. repeating the process but this time, having the `250` as our `low` number and `500` as our *high* number.
+
+`(250 + 500) / 2 = 375` -> personally, I think this method is quite tedious as it takes time. And as we can see, it will definitely consume all my 10 chances.
+
+# Final Thoughts
+Although, it may seems easy to most. This def brought some spark in me to continue exploring. And as mentioned, the process I did was quite tedious, and it takes a lot of guesses - so if anyone who comes by to read this - I'd be happy to read your comments on how to solve this more quickly.
+
+Thanks!
 
