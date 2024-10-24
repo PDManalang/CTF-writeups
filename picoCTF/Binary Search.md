@@ -30,3 +30,4 @@ Although, it may seems easy to most. This def brought some spark in me to contin
 
 Thanks!
 
+[^1] https://www.geeksforgeeks.org/how-to-do-binary-search-step-by-step/
