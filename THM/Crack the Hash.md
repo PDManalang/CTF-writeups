@@ -4,6 +4,7 @@ Tools Used:
 -> CrackStation (https://crackstation.net/) (online tool for cracking the hash)
 -> Hashcat (for cracking the hash to plain text)
 -> Grep (for filter and minimize list of possible password)
+-> https://hashes.com/en/tools/hash_identifier (helped identify possible algorithms)
 
 Task 1
 *L1-1
