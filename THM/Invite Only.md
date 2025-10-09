@@ -8,6 +8,8 @@ You are an SOC analyst on the SOC team at Managed Server Provider TrySecureMe. T
 
 We recently purchased a new threat intelligence search application called TryDetectThis2.0. (a.k.a `VirusTotal`) You can use this application to gather information on the indicators above.
 
+**Task Link:** (https://tryhackme.com/room/invite-only)
+
 ## Questions
 ### 1. What is the name of the file identified with the flagged SHA256 hash?
 In the premise above, SHA256 hash provided `5d0509f68a9b7c415a726be75a078180e3f02e59866f193b0a99eee8e39c874f` let's copy and paste that in `TryDetectThis2.0` search bar.
